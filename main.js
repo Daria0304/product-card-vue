@@ -53,7 +53,7 @@ Vue.component('product', {
         variants: [
             {
                variantId: 2234,
-               variantColor: 'green',
+               variantColor: 'red',
                variantImage: 'https://www.vuemastery.com/images/challenges/vmSocks-green-onWhite.jpg',
                variantQuantity: 10
             },
